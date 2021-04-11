@@ -1,0 +1,39 @@
+.row {
+    background-color: black;
+    
+}
+/* responsividad */
+.row img{
+  
+    width: auto;
+  
+    height: auto;
+  
+}
+/* color de fondo pagina */
+body{
+    background-color: black;
+}
+
+
+
+
+
+
+/* header donde esta el logo*/
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+.contenido{
+    color: white;
+    
+
+
+}
+
+
+
+
+
