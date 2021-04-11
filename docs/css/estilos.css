@@ -1,22 +1,16 @@
 .header {
-    background-color: white;
+    background-color: black;
     display: outside;
     justify-content: space-around;
 
 }
 
 body{
-    background-color: white;
+    background-color: black;
 }
 
 
 
-/* Lugar del menu de navegacion */
-.navegacion {
-    float: center;
-    
-    
-}
 
 /* media q carrusel */
 .carousel-inner img {
@@ -55,12 +49,13 @@ body{
 .redes img {
     height: 50px;
     width: 50px;
+    background-color: white;
     
 }
 
 .contenido {
     display: flex;
-    background-color: white;
+    background-color: black;
     /* color "Agendate" */
     color: white;
     /* Ancho barra bajo carrusel */
@@ -78,4 +73,5 @@ body{
     width: 40%;
     text-align: center;
 } */
+
 
